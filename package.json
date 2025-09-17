@@ -45,6 +45,7 @@
     "delayed-stream": "^1.0.0",
     "dezalgo": "^1.0.4",
     "diff": "^7.0.0",
+    "dotenv": "^17.2.2",
     "dunder-proto": "^1.0.1",
     "eastasianwidth": "^0.2.0",
     "emoji-regex": "^9.2.2",
